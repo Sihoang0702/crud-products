@@ -1,0 +1,41 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1 update",
+      "price": "100003"
+    },
+    {
+      "name": "sản phẩm mới",
+      "price": "012345",
+      "id": 2
+    },
+    {
+      "name": "sdfgc",
+      "price": "02345",
+      "id": 13
+    },
+    {
+      "name": "apn",
+      "price": "0123",
+      "id": 14
+    },
+    {
+      "name": "hoangnsph",
+      "price": "0123",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$lpxtife2P8UPW4gZ1YLoGeBMKlZewINZ.GPSAKHFtv4bo0/ZAz3l.",
+      "id": 1
+    },
+    {
+      "email": "hoangph@gmail.com",
+      "password": "$2a$10$YewSIwfCpM1K04evyvOVvu68CrctaE4.UiKd1GGbkN49z82CYHHA6",
+      "id": 2
+    }
+  ]
+}
